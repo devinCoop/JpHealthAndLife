@@ -1,0 +1,116 @@
+/*
+#1 color = #4ACCD1;
+#2 color = #3fbbc0;
+*/
+
+a:hover,
+a:focus {
+  color: #0f75bc;
+}
+
+.circled {
+  background: #0f75bc;
+}
+
+.con1 > div,
+.con2 > div,
+.con3 > div {
+  background-color: #0f75bc;
+}
+
+.scrollup:hover {
+  background: #0f75bc;
+}
+
+/* service */
+
+.service-icon span {
+  color: #ebca74;
+}
+
+/* button */
+.btn-skin {
+  background-color: #0f75bc;
+  border-color: #0f75bc;
+}
+
+/* top */
+.top-area {
+  background: #0f75bc;
+}
+
+/* menu */
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+  color: #0f75bc;
+}
+.navbar-custom.top-nav-collapse .nav li a:hover,
+.navbar-custom .nav li a:hover,
+.navbar-custom .nav li.active a,
+.navbar-custom.top-nav-collapse .nav li.active a {
+  color: #0f75bc;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+  background-color: #0f75bc;
+}
+
+.bg-skin {
+  background: #ebca74;
+}
+
+.highlight-color {
+  background-color: #0f75bc;
+}
+.color {
+  color: #0f75bc;
+}
+
+/* pricing box  */
+.pricing-content.featured h2,
+.pricing-content.featured .price-bottom {
+  background-color: #0f75bc;
+}
+.pricing-content.featured h3 {
+  background: #0f75bc;
+}
+
+/* team */
+.cbp-l-grid-team-name {
+  color: #0f75bc;
+}
+
+.cbp-l-filters-button .cbp-filter-counter {
+  background-color: #0f75bc;
+}
+
+.cbp-l-filters-alignLeft .cbp-filter-item-active {
+  /* @editable properties */
+  background-color: #0f75bc;
+  border: 1px solid #0f75bc;
+}
+
+.cbp-l-filters-dropdownWrap {
+  background: #0f75bc;
+}
+.cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active {
+  /* @editable properties */
+  background-color: #0f75bc;
+  border-color: #0f75bc;
+}
+.cbp-l-caption-buttonLeft,
+.cbp-l-caption-buttonRight {
+  /* @editable properties */
+  background-color: #0f75bc;
+}
+
+.cbp-l-caption-buttonLeft:hover,
+.cbp-l-caption-buttonRight:hover {
+  /* @editable properties */
+  background-color: #0f75bc;
+}
+
+.form-control:focus {
+  border-color: #0f75bc;
+}

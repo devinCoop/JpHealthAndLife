@@ -1,0 +1,63 @@
+body {
+  margin: 0px;
+  background-color: white;
+}
+
+.navbar-custom {
+  background: linear-gradient(
+    180deg,
+    rgba(13, 128, 193, 0.5) 0%,
+    rgba(238, 207, 128, 0.5) 100%
+  );
+  color: white;
+  margin: 0px;
+}
+
+.jumbotron h1 {
+  color: white;
+  width: 100%;
+}
+
+#yellow {
+  color: #ebca74;
+}
+
+#blue {
+  color: #007bff;
+}
+
+@media (max-width: 575.98px) {
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+  .jumbotron h1 {
+    font-size: 2em;
+  }
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+}
+
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+  .jumbotron {
+    margin-bottom: 0px;
+    background-image: linear-gradient(
+        to right,
+        rgba(255, 255, 255, 0.8) 75%,
+        rgba(255, 255, 255, 0.9) 100%
+      ),
+      url("/img/health.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    font-weight: bold;
+    text-shadow: darkgrey 0.2em 0.2em 0.2em;
+    height: 80vh;
+    padding: 100px;
+    margin: 0px;
+  }
+}
